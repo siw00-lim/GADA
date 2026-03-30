@@ -1,7 +1,7 @@
 # GADA
 
 ## Video
-[(Flowers)](Assets/rebuttal_video1.mp4)
+[Video1(Flowers)](Assets/rebuttal_video1.mp4)
 
 [Video2(Lab)](Assets/rebuttal_video2.mp4)
 
