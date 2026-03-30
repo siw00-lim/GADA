@@ -13,7 +13,7 @@
 
 
 ## Images
-![Rebuttal Image 1](Assets/rebuttal_image_1.jpg)
+![Rebuttal Image 1](Assets/rebuttal_image1.png)
 
 
 
@@ -23,4 +23,4 @@
 
 
 
-![Rebuttal Image 2](Assets/rebuttal_image_2.jpg)
+![Rebuttal Image 2](Assets/rebuttal_image2.png)
