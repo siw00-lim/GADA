@@ -5,7 +5,7 @@
 
 ## ICML 2026
 ### [Paper]() | [Project Page](https://siw00-lim.github.io/GADA-Project-Page/) | [Pretrained Images]()
-![GADA results](assets/teaser.png)
+![GADA results](assets/teaser.jpg)
 ---
 ## 🚧 Code Release
 **We plan to release the full training and evaluation code for GADA in the near future.**
