@@ -50,6 +50,9 @@ We use the standard benchmark datasets following [3DGS](https://github.com/graph
 - [Deep Blending](http://visual.cs.ucl.ac.uk/pubs/deepblending/)
 - [Shiny](https://nex-mpi.github.io/) — preprocessed via COLMAP, following the protocol used by [IBGS](https://github.com/HoangChuongNguyen/ibgs).
 
+## Training and Evaluation
+Coming soon — training and evaluation scripts will be released alongside the code.
+
 ---
 ## Citation
 Please consider citing our work if you find it useful for your research:
