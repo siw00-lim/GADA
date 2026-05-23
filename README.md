@@ -69,12 +69,7 @@ We use the standard benchmark datasets following [3DGS](https://github.com/graph
 Please consider citing our work if you find it useful for your research:
 
 ```bibtex
-@inproceedings{lim2026gada,
-  title     = {{GADA}: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting},
-  author    = {Siwoo Lim and Sunjae Yoon and Gwanhyeong Koo and Chang D. Yoo},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
-  year      = {2026}
-}
+
 ```
 
 ## Acknowledgement
