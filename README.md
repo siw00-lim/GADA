@@ -3,7 +3,7 @@
 
 <sup>1</sup> Korea Advanced Institute of Science and Technology (KAIST) &nbsp;·&nbsp; <sup>2</sup> Chung-Ang University
 
-## 🎉 ICML 2026
+## ICML 2026
 ### [Paper]() | [Project Page](https://siw00-lim.github.io/GADA-Project-Page/) | [Pretrained Images]()
 ![GADA results](Assets/teaser.jpg)
 
