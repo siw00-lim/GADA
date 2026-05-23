@@ -25,7 +25,7 @@ Please ⭐ **star** or **watch** this repository to get notified when the code i
 ## 🖼️ Pretrained Images
 We provide the rendering results used in our paper (Mip-NeRF 360, Tanks & Temples, Deep Blending, and Shiny scenes) for direct qualitative comparison.
 
-🔗 **Download:** [Google Drive — GADA Pretrained Images]()
+🔗 **Download:** [Google Drive — GADA Pretrained Images](https://drive.google.com/file/d/1NVFaTcrwE5A1dO_AzEZEU1QBANmPTpo_/view?usp=sharing)
 
 The drive contains, for each scene, the rendered outputs of:
 - Ground Truth
