@@ -3,6 +3,10 @@
 
 <sup>1</sup> Korea Advanced Institute of Science and Technology (KAIST) &nbsp;·&nbsp; <sup>2</sup> Chung-Ang University
 
+<a href='https://siw00-lim.github.io/GADA-Project-Page/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+<a href='<ARXIV_URL>'><img src='https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white'></a>
+<a href='<GOOGLE_DRIVE_URL>'><img src='https://img.shields.io/badge/Google%20Drive-Pretrained-4285F4?logo=googledrive&logoColor=white'></a>
+
 ### [Paper]() | [Project Page](https://siw00-lim.github.io/GADA-Project-Page/) | [Pretrained Images](https://drive.google.com/file/d/1NVFaTcrwE5A1dO_AzEZEU1QBANmPTpo_/view?usp=sharing)
 ![GADA results](Assets/teaser.jpg)
 
