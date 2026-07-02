@@ -65,6 +65,15 @@ Coming soon — training and evaluation scripts will be released alongside the c
 ## 📝 Citation
 Please consider citing our work if you find it useful for your research:
 ```bibtex
+@misc{lim2026gadageometryawaredeformableaggregation,
+      title={GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting}, 
+      author={Siwoo Lim and Sunjae Yoon and Gwanhyeong Koo and Chang D. Yoo},
+      year={2026},
+      eprint={2607.00595},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.00595}, 
+}
 ```
 
 ## 🙏 Acknowledgement
